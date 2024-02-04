@@ -7,9 +7,25 @@ body{
   text-align: center;
   color: white;
   font-family: monospace;
+  padding: 50px;
 }
 
 .engineer-name{
   color: rgb(205, 205, 205);;
   font-size: 15pt;
 }
+
+.ps-container{
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+.projects,
+.skills{
+  display: inline;
+  font-size: 15px;
+  font-family: monospace;
+  color: rgb(205, 205, 205);
+}
+
