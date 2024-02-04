@@ -1,3 +1,4 @@
 body{
   margin: 0;
+  background: linear-gradient(to right, #414243, hsl(0, 0%, 48%));
 }
