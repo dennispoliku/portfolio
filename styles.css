@@ -2,3 +2,14 @@ body{
   margin: 0;
   background: linear-gradient(to right, #414243, hsl(0, 0%, 48%));
 }
+
+.front-container{
+  text-align: center;
+  color: white;
+  font-family: monospace;
+}
+
+.engineer-name{
+  color: rgb(205, 205, 205);;
+  font-size: 15pt;
+}
