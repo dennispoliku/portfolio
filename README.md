@@ -1,1 +1,1 @@
-# portfolio
+A portofolio that will be progressed and worked on as I go through projects and progress through my programming adventure.
