@@ -10,6 +10,12 @@ body{
   padding: 50px;
 }
 
+@media only screen and (max-width: 600px) {
+.front-container img{
+  width: 100%;
+}
+}
+
 .engineer-name{
   color: rgb(205, 205, 205);;
   font-size: 15pt;
@@ -28,4 +34,3 @@ body{
   font-family: monospace;
   color: rgb(205, 205, 205);
 }
-
