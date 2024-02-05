@@ -34,3 +34,7 @@ body{
   font-family: monospace;
   color: rgb(205, 205, 205);
 }
+
+* {
+  outline: 2px solid red;
+}
